@@ -1,0 +1,33 @@
+html{
+    background-color: black;
+  }
+  
+.upuan{
+    border: 6px solid rgb(101, 12, 21);
+    margin-top: 7%;
+  }
+
+.sinta{
+
+    text-align: center;
+    width: 100%;
+    height: auto;
+    
+}
+
+#header{
+   color: white;
+   font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#paragraph{
+    color: white;
+
+}
+
+#pupid{
+  width: 200px;
+  
+}
